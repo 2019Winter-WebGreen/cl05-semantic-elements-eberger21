@@ -1,0 +1,25 @@
+/*
+* Erin Berger
+* April 10, 2019
+* Sports 
+*/
+
+/* The universal selector */
+
+* . {
+
+}
+
+/* Body attributes here */
+
+body {
+    /* this is to change the background color */ 
+  background-color: bisque;
+}
+
+/* this makes the image float to the right */ 
+figure { float: right; }
+
+header {background-color: darksalmon; }
+main {background-color: darkseagreen; }
+footer {background-color: cornsilk; }
